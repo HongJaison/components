@@ -1,6 +1,6 @@
 package theme2
 
-import "github.com/GoAdminGroup/components/login"
+import "github.com/HongJaison/components/login"
 
 type Theme2 struct{}
 
